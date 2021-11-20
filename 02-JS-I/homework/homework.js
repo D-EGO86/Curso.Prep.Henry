@@ -85,6 +85,7 @@ function menosQueNoventa(num) {
 } else {
   return false;
 }
+}
 
 
 function mayorQueCincuenta(num) {
@@ -95,6 +96,7 @@ if(num>50){
   return true;
 }  else {
   return false;
+}
 }
 
 
@@ -114,6 +116,7 @@ function esPar(num) {
  } else {
    return false;
  }
+}
 
 
 function esImpar(num) {
@@ -181,6 +184,7 @@ if(numero>0){
   console.log("Es positivo");
 } else {
   console.log("Es negativo");
+}
 }
 
 
